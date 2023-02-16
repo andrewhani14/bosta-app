@@ -3,6 +3,7 @@
 A React app that fetches tracking information for parcels
 from the bosta api
 
+You can check the hosted app here: https://bosta-app.web.app/
 
 ## 🚀 About Me
 I'm a full stack developer with a variety of skills

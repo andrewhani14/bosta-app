@@ -19,7 +19,6 @@ import {
   MDBTableBody,
 } from "mdb-react-ui-kit";
 import "mdb-react-ui-kit/dist/css/mdb.min.css";
-import "@fortawesome/fontawesome-free/css/all.min.css";
 import questionPicture from "./assets/question.png";
 
 function App() {
